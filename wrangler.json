@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "preload-community",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8eae1225-e172-4ae4-80f8-bd73a85201e3",
+			"database_name": "preload-community"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
